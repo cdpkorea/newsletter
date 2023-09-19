@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>KoSIF Newsletter</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .column {
+      display: flex;
+      flex-direction: column;
+      width: 20%;
+      padding: 10px;
+      box-sizing: border-box;
+    }
+    .row {
+      display: flex;
+      flex-direction: row;
+      flex-wrap: wrap;
+    }
+    .year-section {
+      margin-bottom: 20px;
+    }
+    .year-section h2 {
+      margin-bottom: 10px;
+    }
+    a {
+      color: #337ab7;
+      text-decoration: none;
+      margin-bottom: 5px;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>KoSIF 뉴스레터 아카이브입니다.</h1>
+  <p>각 링크를 누르면 연도별 아카이브 조회가 가능합니다.:</p>
+  
+  <div class="row">
+    <!-- 2010년 -->
+    <div class="column year-section">
+      <h2>2010년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2011년 -->
+    <div class="column year-section">
+      <h2>2011년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2012년 -->
+    <div class="column year-section">
+      <h2>2012년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2013년 -->
+    <div class="column year-section">
+      <h2>2013년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2014년 -->
+    <div class="column year-section">
+      <h2>2014년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2015년 -->
+    <div class="column year-section">
+      <h2>2015년</h2>
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 2016년 -->
+    <div class="column year-section">
+      <h2>2016년</h2>
+      <!-- Add the links here -->
+    </div>
+  </div>
+
+  <h1>칼럼</h1>
+  <div class="row">
+    <!-- 칼럼 1 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 2 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 3 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 4 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 5 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 6 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+
+    <!-- 칼럼 7 -->
+    <div class="column">
+      <!-- Add the links here -->
+    </div>
+  </div>
+</body>
+</html>
